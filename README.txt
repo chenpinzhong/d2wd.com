@@ -1,1 +1,5 @@
-12345测试
+12345
+git remote add origin https://github.com/chenpinzhong/d2wd.com.git
+git remote rm origin #清除
+git push -u origin master #提交文件 1
+
